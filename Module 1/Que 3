@@ -1,1 +1,42 @@
+Que 3.What is SDLC? Explain each phase of SDLC. 
+Ans.
+     SDLC is the cost-efficient process that development teams use to design and build high-quality software.
+SDLC stand for software development life cycle. 
 
+-seven types of SDLC:
+   1) Planning
+   2) Requirements analysis
+   3) Design
+   4) Implementation
+   5) Testing
+   6) Deployment 
+   7) Maintanance
+
+- Phases of SDLC.
+     1) Planning 
+           This phase involves determining the scope, objectives and feasibility of the project.  
+        It includes resource planning, risk analysis, and timeline establishment.
+
+     2) Requirement Analysis
+           In this phase, the needs of the stockolders are gathered and documented.   
+        This includes functional and non-functional requirements.
+
+     3) Design 
+           Based on the requirements, the software architecture is designed. 
+        This includes both high-level design  and low-level design.
+  
+     4) Implementation 
+           The actual code is written according to the design specifications. 
+        This phase involves developers writing code in the appropriate programming language.
+
+     5) Testing 
+           The software is rigorously tested to find and fix bugs. 
+        This includes unit testing, integration testing, system testing, and acceptance testing.
+
+     6) Deployment 
+           The software is delivered to the customer and installed on their system. 
+        This phase may involve beta testing and final adjustments.
+
+     7) Maintenance 
+           the software is monitored for issues and necessary updates or 
+        enhancements are made to ensure the software continues to function as expected.
